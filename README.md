@@ -7,15 +7,14 @@
 </div>
 
 <p align="center">
-  <a href="#-features">Features</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-architecture">Architecture</a> •
-  <a href="#-getting-started">Getting Started</a> •
-  <a href="#-screenshots">Screenshots</a> •
-  <a href="#-development">Development</a> •
-  <a href="#-license">License</a>
+  <a href="#features">Features</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#architecture">Architecture</a> •
+  <a href="#getting-started">Getting Started</a> •
+  <a href="#testing--quality">Testing & Quality</a> •
+  <a href="#development">Development</a> •
+  <a href="#license">License</a>
 </p>
-
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
@@ -153,6 +152,20 @@ npm start
 The application will be available at `http://localhost:3000`.
 
 ---
+---
+
+## Testing & Quality
+
+LearnLink includes an end-to-end (E2E) Selenium test suite to validate critical user journeys and prevent regressions.
+
+### Test Suite Location
+- **Selenium E2E Tests**: `learnlink_gui/tests/`
+
+### Test Documentation
+- **Test Cases Document**: `learnlink_gui/tests/Learnlink_TestCases.docx`
+
+> The test document is the single source of truth for scenarios, expected outcomes, and coverage.
+
 
 
 ## 👨‍💻 Development
