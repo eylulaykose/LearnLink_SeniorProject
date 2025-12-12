@@ -1,7 +1,7 @@
-# 🚀 LearnLink: Connect, Learn, and Grow Together
+# LearnLink: Connect, Learn, and Grow Together
 
 <div align="center">
-  <img src="learnlink_gui/src/assets/images/learnlink-logo.png" alt="LearnLink Logo" width="200"/>
+  <img src="learnlink_gui/src/assets/learnlink-logo.png" alt="LearnLink Logo" width="200"/>
   <br>
   <p><em>A comprehensive full-stack educational platform designed to enhance the learning experience</em></p>
 </div>
@@ -25,7 +25,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 LearnLink is a comprehensive educational platform that bridges the gap between students and educators, providing a seamless and interactive learning experience. Key features include:
 
@@ -34,28 +34,23 @@ LearnLink is a comprehensive educational platform that bridges the gap between s
 - **Enrollment**: Students can discover and join courses with ease
 - **Content Delivery**: Rich course material with support for various media types
 
-### 💬 Communication Tools
+### Communication Tools
 - **Real-time Chat**: Instant messaging between students and instructors
 - **Discussion Forums**: Threaded discussions within courses
 - **Chatrooms**: Topic-based group chats for collaborative learning
 - **Direct Messages**: Private communication between users
 
-### 📅 Planning & Organization
-- **Events Calendar**: Schedule and track important dates and deadlines
-- **Assignments**: Create, submit, and grade assignments with automated tracking
-- **Progress Tracking**: Visual analytics to monitor learning progress
-
-### 🔔 Smart Notifications
+### Smart Notifications
 - **Real-time Alerts**: Stay updated with course announcements
 - **Personalized Notifications**: Custom alerts based on user preferences
 - **Multi-channel Delivery**: Receive notifications through the app or email
 
-### 👥 Community & Social
+### Community & Social
 - **User Profiles**: Customizable profiles to showcase achievements
 - **Connections**: Build a network of peers and instructors
 - **Collaboration Tools**: Work together on projects and assignments
 
-### 🎨 Additional Features
+### Additional Features
 - **Dark/Light Theme**: Customizable user interface for comfortable viewing
 - **Responsive Design**: Optimized for both desktop and mobile experiences
 - **File Sharing**: Seamless exchange of learning materials
@@ -63,7 +58,7 @@ LearnLink is a comprehensive educational platform that bridges the gap between s
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 LearnLink leverages a modern technology stack to deliver a robust, secure, and scalable educational platform:
 
@@ -87,7 +82,7 @@ LearnLink leverages a modern technology stack to deliver a robust, secure, and s
 - 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 LearnLink follows a modern client-server architecture separated into two main components:
 
@@ -108,7 +103,7 @@ LearnLink follows a modern client-server architecture separated into two main co
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these instructions to get LearnLink up and running on your local machine.
 
@@ -155,7 +150,7 @@ The application will be available at `http://localhost:3000`.
 ---
 
 
-## 👨‍💻 Development
+## Development
 
 ### Project Structure
 
