@@ -1,0 +1,7 @@
+learnlink_gui/**/*.js linguist-language=TypeScript
+learnlink_gui/**/*.jsx linguist-language=TypeScript
+
+**/node_modules/** linguist-vendored
+**/build/** linguist-generated
+**/dist/** linguist-generated
+**/coverage/** linguist-generated
