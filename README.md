@@ -1,7 +1,7 @@
 # 🚀 LearnLink: Connect, Learn, and Grow Together
 
 <div align="center">
-  <img src="learnlink_gui/src/assets/images/learnlink-logo.png" alt="LearnLink Logo" width="200"/>
+  <img src="learnlink_gui/src/assets/learnlink-logo.png" alt="LearnLink Logo" width="200"/>
   <br>
   <p><em>A comprehensive full-stack educational platform designed to enhance the learning experience</em></p>
 </div>
